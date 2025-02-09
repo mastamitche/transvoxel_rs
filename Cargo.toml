@@ -1,5 +1,5 @@
 [package]
-name = "transvoxel"
+name = "transvoxel_rs"
 version = "1.1.0"
 authors = ["Seb E. <seb@nospam.org>"]
 edition = "2018"
